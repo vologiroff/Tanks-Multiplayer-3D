@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ec32fdcb356a4246b83c0e9294ba54d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - oneShotPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

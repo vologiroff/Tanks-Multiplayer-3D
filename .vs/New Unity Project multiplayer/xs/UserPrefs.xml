@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{71751CAB-BAC4-88B6-15B9-11BB913F1AA5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Multiplayer/NetworkManagerCustom.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="344" Column="2" />
+      <File FileName="Assets/Scripts/UI/StartManager.cs" />
+      <File FileName="Assets/Scripts/Managers/TankManager.cs" />
+      <File FileName="Assets/Scripts/PowerupHealthSingle.cs" />
+      <File FileName="Assets/Scripts/PowerupShieldSingle.cs" />
+      <File FileName="Assets/Scripts/Tank/TankHealth.cs" />
+      <File FileName="Assets/Scripts/Tank/TankMovement.cs" />
+      <File FileName="Assets/Scripts/Tank/TankShootingBot.cs" />
+      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" />
+      <File FileName="Assets/Scripts/Multiplayer/NetworkManagerCustom.cs" Line="340" Column="55" />
+      <File FileName="Assets/Scripts/Multiplayer/MultGameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ece81c6e-919b-4e84-9051-da2726dfdc20" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
