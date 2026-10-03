@@ -2,6 +2,8 @@
 
 A top-down 3D tank shooter for mobile, built with Unity. Play solo rounds against AI bots or join a team deathmatch over Photon.
 
+![Two tanks facing off on the desert map in a multiplayer match](docs/gameplay.jpg)
+
 ## Game modes
 
 ### Single player
